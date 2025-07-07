@@ -1,4 +1,4 @@
-package constructor.chaining;
+package constructor.chaining.this_keyword;
 // Constructor chaining in same class (this)
 public class Student {
     int id;

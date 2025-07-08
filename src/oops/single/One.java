@@ -1,4 +1,4 @@
-package single;
+package oops.single;
 // Single inheritance
 public class One {
     void display(){

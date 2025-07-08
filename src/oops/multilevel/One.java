@@ -1,4 +1,5 @@
-package multilevel;
+package oops.multilevel;
+
 //Multilevel
 public class One {
     void oneDisplay(){

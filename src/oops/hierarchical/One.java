@@ -1,5 +1,5 @@
 package oops.hierarchical;
-/* Hierarchical inheritance where multiple classes (Two, Three, Four) inherit from a single class (One),
+/* Hierarchical inheritance where oops.multiple classes (Two, Three, Four) inherit from a single class (One),
 allowing them to share the same methods from class One.*/
 
 public class One {

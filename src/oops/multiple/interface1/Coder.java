@@ -1,4 +1,4 @@
-package multiple.interface1;
+package oops.multiple.interface1;
 // Interface Before JAVA 8 -- we can only declare method
 public interface Coder {
     void writeCode();

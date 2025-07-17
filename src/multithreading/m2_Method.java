@@ -1,6 +1,6 @@
 package multithreading;
 
-public class m2_Method extends Thread{
+public class m2_Method extends java.lang.Thread {
     @Override
     public void run() {
         for (int i = 0; i <= 100; i++) {
@@ -8,7 +8,7 @@ public class m2_Method extends Thread{
         }
     }
 }
-class Demo2 extends Thread{
+class Demo2 extends java.lang.Thread {
     @Override
     public void run() {
         for (int i = 0; i <=100; i++) {

@@ -1,6 +1,5 @@
 package multithreading;
 
-public class Task1 extends java.lang.Thread {
     @Override
     public void run() {
             for (int i=0;i<=100;i++){
@@ -9,7 +8,6 @@ public class Task1 extends java.lang.Thread {
     }
 }
 
-class Task2 extends java.lang.Thread {
     @Override
     public void run() {
         for (int i=0;i<=100;i++){

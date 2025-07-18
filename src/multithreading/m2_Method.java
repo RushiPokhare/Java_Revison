@@ -1,9 +1,7 @@
 package multithreading;
 
-<<<<<<< HEAD
-=======
+
 public class m2_Method extends Thread{
->>>>>>> bc1844a (array program)
     @Override
     public void run() {
         for (int i = 0; i <= 100; i++) {
@@ -11,10 +9,7 @@ public class m2_Method extends Thread{
         }
     }
 }
-<<<<<<< HEAD
-=======
 class Demo2 extends Thread{
->>>>>>> bc1844a (array program)
     @Override
     public void run() {
         for (int i = 0; i <=100; i++) {

@@ -1,5 +1,9 @@
 package multithreading;
 
+<<<<<<< HEAD
+=======
+public class Task1 extends Thread{
+>>>>>>> bc1844a (array program)
     @Override
     public void run() {
             for (int i=0;i<=100;i++){
@@ -8,6 +12,10 @@ package multithreading;
     }
 }
 
+<<<<<<< HEAD
+=======
+class Task2 extends Thread{
+>>>>>>> bc1844a (array program)
     @Override
     public void run() {
         for (int i=0;i<=100;i++){

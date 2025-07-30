@@ -13,7 +13,15 @@ public class Demo1 {
         System.out.println("Parsing String");
 
         String str="10";
-        byte parsedByte=Byte.parseByte(str);
+        byte primitive=Byte.parseByte(str);
+        Byte wrapperObject=Byte.valueOf(str);
+
+//        Byte autoBoxing=parsedByte;  <-- Autoboxing for above example
+
+        System.out.println(primitive);
+        System.out.println(wrapperObject);
+
+
 
     }
 }
